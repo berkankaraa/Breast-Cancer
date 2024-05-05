@@ -11,3 +11,5 @@ A major challenge in detection is how to classify tumours as malignant (cancerou
 
 Acknowledgements:  
 This dataset was obtained from Kaggle.
+
+![images](https://github.com/berkankaraa/Breast-Cancer/assets/97415486/72b400da-81e3-42ce-a6c6-0c91c8421671)
