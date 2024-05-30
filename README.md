@@ -7,18 +7,19 @@
 **Description:**  
 Breast cancer is the most common cancer among women worldwide. It accounts for 25 per cent of all cancer cases and affected more than 2.1 million people in 2015 alone. It starts when cells in the breast start to grow out of control. These cells often form tumours that can be seen on X-rays or felt as a lump in the breast area.
 
-**Problem:** 
+**Problem:**  
 The key challenge is how to classify tumors into malignant (cancerous) or benign (non cancerous).  
 
-**Acknowledgements:**  
+**Acknowledgements:**    
 This dataset was obtained from Kaggle.
 
 ### TR
-**Açıklama:**
+**Açıklama:**  
 Meme kanseri dünya genelinde kadınlar arasında en yaygın kanser türüdür. Tüm kanser vakalarının yüzde 25'ini oluşturur ve yalnızca 2015 yılında 2,1 milyondan fazla kişiyi etkilemiştir. Memedeki hücreler kontrol dışı büyümeye başladığında başlar. Bu hücreler genellikle X-ışınlarında görülebilen veya meme bölgesinde bir yumru olarak hissedilebilen tümörler oluşturur.
 
-**Sorun:** Tümörlerin kötü huylu (kanserli) veya iyi huylu (kanserli olmayan) olarak nasıl sınıflandırılacağıdır.
+**Sorun:**  
+Tümörlerin kötü huylu (kanserli) veya iyi huylu (kanserli olmayan) olarak nasıl sınıflandırılacağıdır.
 
-**Referans:**
+**Referans:**  
 Bu veri kümesi Kaggle'dan elde edilmiştir.
 
