@@ -15,7 +15,6 @@ The key challenge is how to classify tumors into malignant (cancerous) or benign
 ### TR
 **Açıklama:**  
 Meme kanseri dünya genelinde kadınlar arasında en yaygın kanser türüdür. Tüm kanser vakalarının yüzde 25'ini oluşturur ve yalnızca 2015 yılında 2,1 milyondan fazla kişiyi etkilemiştir. Memedeki hücreler kontrol dışı büyümeye başladığında başlar. Bu hücreler genellikle X-ışınlarında görülebilen veya meme bölgesinde bir yumru olarak hissedilebilen tümörler oluşturur. 
-android:gravity="right"
 
 **Sorun:**  
 Tümörlerin kötü huylu (kanserli) veya iyi huylu (kanserli olmayan) olarak nasıl sınıflandırılacağıdır.
