@@ -20,6 +20,5 @@ Meme kanseri dünya genelinde kadınlar arasında en yaygın kanser türüdür. 
 **Sorun:**  
 Tümörlerin kötü huylu (kanserli) veya iyi huylu (kanserli olmayan) olarak nasıl sınıflandırılacağıdır.
 
-**Referans:**  
-Bu veri kümesi Kaggle'dan elde edilmiştir.
+> Bu veri kümesi Kaggle'dan elde edilmiştir.
 
